@@ -2,8 +2,8 @@
 
 ---
 ### Data Science/Machine Learning
-[Housing Prices Prediction](/pdf/exercise-pipelines.ipynb)
-for https://www.kaggle.com/competitions/home-data-for-ml-course/overview
+[Housing Prices Prediction](/files/exercise-pipelines.ipynb)
+<p>for https://www.kaggle.com/competitions/home-data-for-ml-course/overview</p>
 <img src="images/housingprices_thumbnail.png?raw=true"/>
 
 ---
@@ -16,6 +16,7 @@ for https://www.kaggle.com/competitions/home-data-for-ml-course/overview
 ### Web Development & Databases 
 [U-League Football Match Web Application](https://tk4basdat-production.up.railway.app/authentication/landing)
 <p>Python, Django, PostgreSQL</p>
+<p>Note: due to the application being deployed on Railway with a free plan, it does not have 100% uptime. Source code can be found [here] (https://github.com/amrul-hzz/u-league)</p>
 <img src="images/uleague_thumbnail.png?raw=true"/>
 
 ---
