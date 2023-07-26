@@ -2,8 +2,8 @@
 
 ---
 ### Data Science/Machine Learning
-[Housing Prices Prediction](/files/exercise-pipelines.ipynb)
-<a href="https://www.kaggle.com/competitions/home-data-for-ml-course/overview">for this competition</a>
+[Housing Prices Prediction](/files/exercise-pipelines.ipynb) for this
+<a href="https://www.kaggle.com/competitions/home-data-for-ml-course/overview">competition</a>
 <img src="images/housingprices_thumbnail.png?raw=true"/>
 
 ---
