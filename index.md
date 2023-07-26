@@ -16,7 +16,9 @@
 ### Web Development & Databases 
 [U-League Football Match Web Application](https://tk4basdat-production.up.railway.app/authentication/landing)
 <p>Python, Django, PostgreSQL</p>
-<p>Note: due to the application being deployed on Railway with a free plan, it does not have 100% uptime. Source code can be found [here] (https://github.com/amrul-hzz/u-league)</p>
+<p>
+Note: due to the application being deployed on Railway with a free plan, it does not have 100% uptime. Source code can be found <a href="https://github.com/amrul-hzz/u-league">here</a>.
+</p>
 <img src="images/uleague_thumbnail.png?raw=true"/>
 
 ---
