@@ -1,34 +1,22 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Data Science/Machine Learning
+[Housing Prices Prediction](/pdf/exercise-pipelines.ipynb)
+for https://www.kaggle.com/competitions/home-data-for-ml-course/overview
+<img src="images/housingprices_thumbnail.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Data Visualization
+[Covid Interactive Visualization](https://public.tableau.com/shared/PCPFQ3PY6?:display_count=n&:origin=viz_share_link)
+<p>Tableau</p>
+<img src="images/covidviz_thumbnail.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+### Web Development & Databases 
+[U-League Football Match Web Application](https://tk4basdat-production.up.railway.app/authentication/landing)
+<p>Python, Django, PostgreSQL</p>
+<img src="images/uleague_thumbnail.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
